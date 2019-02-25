@@ -23,11 +23,11 @@ commodities in each relevant season, and year.
 
 
 **Final result files descriptions**
-1) `Agriculture_Commodities_Prices & Seasons_analysis.ipynb`: This notebook contain all the analysis, graphs and charts along with proper explanation of methods and code of each step to perform the given tasks.; 
-2) `outlier_removed_data.csv`: This csv file contain the data after removing the outliers; 
-3) `preprocess_data.csv`: This csv file contain the preprocessed data used while detecting type of seasonality and then depersonalized it; 
-4) `deseasonalised_data.csv`: This csv file contain the depersonalized data;
-5) `Seasonal_type_list.csv`: This csv file contain the information of type of seasonality present in different commodities;
-6) `flag_set_data_year.csv`: This csv file contain the highest price fluctuation information across different commodities in each relevant year.; 
+1) `Agriculture_Commodities_Prices & Seasons_analysis.ipynb`: This notebook contain all the analysis, graphs and charts along with proper explanation of methods and code of each step to perform the given tasks.
+2) `outlier_removed_data.csv`: This csv file contain the data after removing the outliers.
+3) `preprocess_data.csv`: This csv file contain the preprocessed data used while detecting type of seasonality and then depersonalized it. 
+4) `deseasonalised_data.csv`: This csv file contain the depersonalized data.
+5) `Seasonal_type_list.csv`: This csv file contain the information of type of seasonality present in different commodities.
+6) `flag_set_data_year.csv`: This csv file contain the highest price fluctuation information across different commodities in each relevant year.
 7) `flag_data_year_season.csv`: This csv file contain the highest price fluctuation information across different commodities in each relevant year and season.
  
